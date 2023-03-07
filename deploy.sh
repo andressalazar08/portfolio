@@ -6,7 +6,7 @@ echo "Building app..."
 npm run build
 
 echo "Cargando archivos al servidor..."
-scp -r build/* usefer@172.104.19.141:/var/www/172.104.19.141/
+scp -r build/* usefer@139.144.173.14:/var/www/felipesalazar.dev/
 
 echo "Listo.."
 

@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          primer deploy de una react app con firewall activado
+          El primer paso para un portafolio
         </p>
         <a
           className="App-link"
